@@ -1,0 +1,2 @@
+class JokeImage < ApplicationRecord
+end
